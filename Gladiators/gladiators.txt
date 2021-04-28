@@ -1,0 +1,10 @@
+﻿4;Gallic
+3;Punic;-2
+8;Roman;4
+10;Thracian;0
+7;Roman
+9;Punic
+1;Gallic;5
+5;Thracian;3
+3;Thracian
+6;Gallic
