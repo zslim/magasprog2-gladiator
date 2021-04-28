@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Gladiators
 {
-    class OriginType
+    enum OriginType
     {
+        Gallic, Punic, Roman, Thracian
     }
 }
