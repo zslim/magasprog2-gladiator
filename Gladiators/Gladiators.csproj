@@ -43,8 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChristianGladiator.cs" />
+    <Compile Include="EndOfServiceException.cs" />
     <Compile Include="FightingGladiator.cs" />
     <Compile Include="Gladiator.cs" />
+    <Compile Include="IncorrectYearNumberException.cs" />
     <Compile Include="OriginType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

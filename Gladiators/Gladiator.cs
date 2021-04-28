@@ -56,9 +56,9 @@ namespace Gladiators
         public Gladiator(byte years, OriginType origin)
         {
             Years = years;
-            Origin = origin;
+            this.origin = origin;
             IsFreed = false;
-            IsAlive = true;
+            this.isAlive = true;
         }
         
         
