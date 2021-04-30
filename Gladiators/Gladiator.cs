@@ -28,7 +28,7 @@ namespace Gladiators
             get { return origin; }
         }
         
-        private bool isFreed;
+        protected bool isFreed;
         public bool IsFreed
         {
             get { return isFreed; }
@@ -48,7 +48,7 @@ namespace Gladiators
             get { return isAlive; }
         }
 
-        private void Die()
+        protected void Die()
         {
             isAlive = false;
         }
