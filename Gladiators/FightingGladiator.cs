@@ -42,5 +42,10 @@ namespace Gladiators
                 Die();
             }
         }
+
+        public FightingGladiator(byte years, OriginType origin, sbyte spirit): base(years, origin)
+        {
+            this.FightingSpirit = spirit;
+        }
     }
 }
